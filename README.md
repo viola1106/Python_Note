@@ -1,3 +1,7 @@
 # Python_Note
-Config files for my GitHub profile.
-My python parcticing note
+
+My python parcticing note.  
+
+內容:
+* 自主練習
+* Hahow: 資料分析&機器學習_實作演練
